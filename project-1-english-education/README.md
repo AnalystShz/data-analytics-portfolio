@@ -1,25 +1,32 @@
 README content
 
-# English Education Data Analysis
+# Project 1: English Education Analysis
 
 ## Overview
-This project analyses educational attainment of young people in English towns.  
-The goal is to clean, explore, and visualise the data to gain insights about education patterns.
+Analyzed educational attainment of young people in English towns to explore trends by **town size**, **region**, and **academic progression**. Dataset sourced from the **UK Office for National Statistics** (via Kaggle).
 
-## Dataset
-- Source: Kaggle – English Education
-- File: english_education.csv
+---
 
-## Tools Used
-- Excel / Python / Power BI (choose what you use)
-- Techniques: Data Cleaning, Summary Statistics, Charts & Graphs
+## Skills Demonstrated
+- Python & Pandas for data cleaning and manipulation  
+- Matplotlib & Seaborn for visualizations  
+- Exploratory Data Analysis (EDA)  
+- Handling missing values and real-world datasets  
 
-## Analysis Steps
-1. Checked for missing values and duplicates
-2. Standardised column names and formats
-3. Created summary tables of key metrics
-4. Produced charts to visualise trends
+---
 
-## Insights (Examples)
-- Towns with higher school attendance correlate with higher exam scores
-- Trends in educational attainment vary across regions
+## Key Findings
+- Smaller towns often have higher education scores than larger towns  
+- Early performance (KS2) correlates with later performance (KS4)  
+- Clear regional differences in educational outcomes  
+
+---
+
+## Files
+- `english_education_analysis.ipynb` → Full analysis notebook with code, charts, and markdown  
+- Dataset CSV → Used for analysis  
+
+---
+
+## How to Use
+Open the notebook in **Jupyter Notebook** or **VS Code** and run all cells to reproduce the analysis and visualizations.
