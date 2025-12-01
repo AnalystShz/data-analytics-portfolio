@@ -41,27 +41,37 @@ I specialise in turning data into clear insights and practical solutions.
 ## 📁 Projects (This Will Grow Over Time)
 Below are the projects I am building to demonstrate my skills:
 
-### 1. **Data Cleaning Project**
+
+### 1. COVID-19 Recovery Analysis 🦠📊
+Tools: Python, Jupyter Notebooks, CSV
+Focus: Exploratory data analysis, visualizations, and predictive insights into recovery, mortality, disease severity, and ICU admissions
+Status: Completed
+
+### 2. English Education Analysis 📚
+Tools: Python, Pandas, Matplotlib, Seaborn, CSV
+Focus: Analyzing educational attainment across towns, identifying regional differences, trends, and correlations
+Status: Completed
+### 3. **Data Cleaning Project**
 - Tools: Excel / SQL  
 - Focus: Removing duplicates, fixing missing values, formatting issues  
 - Status: Coming soon
 
-### 2. **Exploratory Data Analysis (EDA)**
+### 4. **Exploratory Data Analysis (EDA)**
 - Tools: Excel / Python  
 - Focus: Understanding distributions, trends, correlations  
 - Status: Coming soon
 
-### 3. **Power BI Dashboard**
+### 5. **Power BI Dashboard**
 - Tools: Power BI  
 - Focus: Interactive dashboard with KPIs and insights  
 - Status: Coming soon
 
-### 4. **Business Case Analysis**
+### 6. **Business Case Analysis**
 - Tools: BA techniques (from BCS)  
 - Focus: Requirements, workflow, problem solving  
 - Status: Coming soon
 
-### 5. **Google Data Analytics Capstone**
+### 7. **Google Data Analytics Capstone**
 - Tools: R / Python / Sheets  
 - Focus: Real-world business problem analysis  
 - Status: Coming soon
