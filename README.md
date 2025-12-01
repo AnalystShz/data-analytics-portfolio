@@ -43,19 +43,19 @@ Below are the projects I am building to demonstrate my skills:
 
 
 ### 1. COVID-19 Recovery Analysis 🦠📊
-Tools: Python, Jupyter Notebooks, CSV
-Focus: Exploratory data analysis, visualizations, and predictive insights into recovery, mortality, disease severity, and ICU admissions
-Status: Completed
+- Tools: Python, Jupyter Notebooks, CSV
+- Focus: Exploratory data analysis, visualizations, and predictive insights into recovery, mortality, disease severity, and ICU admissions
+- Status: Completed
 
 ### 2. English Education Analysis 📚
-Tools: Python, Pandas, Matplotlib, Seaborn, CSV
-Focus: Analyzing educational attainment across towns, identifying regional differences, trends, and correlations
-Status: Completed
+- Tools: Python, Pandas, Matplotlib, Seaborn, CSV
+- Focus: Analyzing educational attainment across towns, identifying regional differences, trends, and correlations
+- Status: Completed
 
 ### 3. LEGO/STEM Club Challenge Tracker 🏗️
-Tools: MySQL, DBeaver, SQL
-Focus: Database design, data retrieval, aggregation, views, functions, and data integrity for tracking children’s participation in LEGO/STEM kit builds and club challenges
-Status: Completed
+- Tools: MySQL, DBeaver, SQL
+- Focus: Database design, data retrieval, aggregation, views, functions, and data integrity for tracking children’s participation in LEGO/STEM kit builds and club challenges
+- Status: Completed
 
 ### 4. **Data Cleaning Project**
 - Tools: Excel / SQL  
