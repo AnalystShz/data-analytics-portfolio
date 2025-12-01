@@ -51,27 +51,33 @@ Status: Completed
 Tools: Python, Pandas, Matplotlib, Seaborn, CSV
 Focus: Analyzing educational attainment across towns, identifying regional differences, trends, and correlations
 Status: Completed
-### 3. **Data Cleaning Project**
+
+### 3. LEGO/STEM Club Challenge Tracker 🏗️
+Tools: MySQL, DBeaver, SQL
+Focus: Database design, data retrieval, aggregation, views, functions, and data integrity for tracking children’s participation in LEGO/STEM kit builds and club challenges
+Status: Completed
+
+### 4. **Data Cleaning Project**
 - Tools: Excel / SQL  
 - Focus: Removing duplicates, fixing missing values, formatting issues  
 - Status: Coming soon
 
-### 4. **Exploratory Data Analysis (EDA)**
+### 5. **Exploratory Data Analysis (EDA)**
 - Tools: Excel / Python  
 - Focus: Understanding distributions, trends, correlations  
 - Status: Coming soon
 
-### 5. **Power BI Dashboard**
+### 6. **Power BI Dashboard**
 - Tools: Power BI  
 - Focus: Interactive dashboard with KPIs and insights  
 - Status: Coming soon
 
-### 6. **Business Case Analysis**
+### 7. **Business Case Analysis**
 - Tools: BA techniques (from BCS)  
 - Focus: Requirements, workflow, problem solving  
 - Status: Coming soon
 
-### 7. **Google Data Analytics Capstone**
+### 8. **Google Data Analytics Capstone**
 - Tools: R / Python / Sheets  
 - Focus: Real-world business problem analysis  
 - Status: Coming soon
