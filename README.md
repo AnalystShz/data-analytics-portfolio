@@ -16,7 +16,7 @@ I specialise in turning data into clear insights and practical solutions.
 
 ## 🔹 About Me
 - Entry-level Data Analyst based in the UK  
-- Strong interest in NHS, Government, and public-sector analytics  
+- Interested in analytics with a focus on public-sector, healthcare, and government applications  
 - Focused on building clean, useful, honest data solutions  
 - Passion for problem-solving and continuous learning  
 
