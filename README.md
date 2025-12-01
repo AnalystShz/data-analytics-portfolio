@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="3294f00f-197d-4e56-9a0e-3b6a22461bd4" src="https://github.com/user-attachments/assets/f9deb433-8f70-4ec4-adc9-67e39c389339" />
+<img width="1280" height="640" alt="3294f00f-197d-4e56-9a0e-3b6a22461bd4" src="https://github.com/user-attachments/assets/f9deb433-8f70-4ec4-adc9-67e39c389339" />
 
 
 <!---
@@ -73,7 +73,7 @@ If you’re interested in my work or discussing data opportunities:
 **Email:** shezminabubakar@gmail.com  
 **LinkedIn:** www.linkedin.com/in/shezmin-r-3a8591298  
 
-<img width="1536" height="1024" alt="3294f00f-197d-4e56-9a0e-3b6a22461bd4" src="https://github.com/user-attachments/assets/f9deb433-8f70-4ec4-adc9-67e39c389339" />
+
 
 
 
